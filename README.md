@@ -4,6 +4,6 @@ Calculo de IMC
 
 IMC = (Peso/Altura²)
 
-Requisitos: 
+# Requisitos: 
 
 Python 3
